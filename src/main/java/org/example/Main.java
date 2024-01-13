@@ -2,6 +2,8 @@ package org.example;
 
 import java.util.Scanner;
 
+// hey for this exercise the user enters a first number, then a second number and the operation
+// it does only 4 operation +, -, / and *
 class Main {
 
     public static void main(String[] args){
@@ -56,7 +58,7 @@ class Main {
 
        }
 
-       System.out.print("Enter the operation you want: ");
+       System.out.print("Enter the operation you want : ");
 
        isValide = false;
 
