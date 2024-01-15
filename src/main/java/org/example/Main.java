@@ -10,6 +10,9 @@ class Main {
 
         // 1 simpleCalculator : this branch contain a calculator code that perform 4 operation(+,-,/ and *)
 
+        // 2 tictactoe : a tictactoe game
+
+        // 3 cardNumberMasking : this is a function that take list of card number and mask the number except the lase 4 digits
 
     }
 
