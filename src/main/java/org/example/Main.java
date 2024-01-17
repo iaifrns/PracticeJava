@@ -14,6 +14,8 @@ class Main {
 
         // 3 cardNumberMasking : this is a function that take list of card number and mask the number except the lase 4 digits
 
+        // 4 simpleStudentManagement : this is a small student management system that is on the cmd so is one classroom with student and subjects
+
     }
 
 }
